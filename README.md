@@ -1,3 +1,3 @@
 # dco-exercise
 
-Hello Brave New World
+Hello New World
