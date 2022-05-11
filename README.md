@@ -1,3 +1,3 @@
 # dco-exercise
 
-Hello World usual branch
+Hello World non-protected branch
