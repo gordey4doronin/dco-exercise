@@ -1,3 +1,3 @@
 # dco-exercise
 
-Hello World outsider new
+Hello World outsider
