@@ -1,3 +1,3 @@
 # dco-exercise
 
-Hello World conflict QWE
+Hello World
