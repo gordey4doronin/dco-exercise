@@ -7,4 +7,3 @@ Hello Rebase World
 3.
 4.
 
-HI THERE
