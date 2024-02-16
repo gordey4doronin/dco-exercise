@@ -3,4 +3,5 @@
 Hello Brave World
 
 1
- NaN
+
+2
